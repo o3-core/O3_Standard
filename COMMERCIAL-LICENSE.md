@@ -1,4 +1,4 @@
-# Commercial licensing
+# Commercial/Alternative licensing
 
 This repository is licensed under the GNU GPL v3.0 (see `LICENSE`).
 
