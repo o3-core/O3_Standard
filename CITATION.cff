@@ -1,0 +1,124 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the following article."
+title: "Operational Ontology for Oncology (O3): A Professional Society-Based, Multistakeholder, Consensus-Driven Informatics Standard Supporting Clinical and Research Use of Real-World Data From Patients Treated for Cancer"
+authors:
+  - family-names: Mayo
+    given-names: C.S.
+  - family-names: Feng
+    given-names: M.U.
+  - family-names: Brock
+    given-names: K.K.
+  - family-names: Kudner
+    given-names: R.
+  - family-names: Balter
+    given-names: P.
+  - family-names: Buchsbaum
+    given-names: J.C.
+  - family-names: Caissie
+    given-names: A.
+  - family-names: Covington
+    given-names: E.
+  - family-names: Daugherty
+    given-names: E.C.
+  - family-names: Dekker
+    given-names: A.L.
+  - family-names: Fuller
+    given-names: C.D.
+  - family-names: Hallstrom
+    given-names: A.L.
+  - family-names: Hong
+    given-names: D.S.
+  - family-names: Hong
+    given-names: J.C.
+  - family-names: Kamran
+    given-names: S.C.
+  - family-names: Katsoulakis
+    given-names: E.
+  - family-names: Kildea
+    given-names: J.
+  - family-names: Krauze
+    given-names: A.V.
+  - family-names: Kruse
+    given-names: J.J.
+  - family-names: McNutt
+    given-names: T.
+  - family-names: Mierzwa
+    given-names: M.
+  - family-names: Moreno
+    given-names: A.
+  - family-names: Palta
+    given-names: J.R.
+  - family-names: Popple
+    given-names: R.
+  - family-names: Purdie
+    given-names: T.G.
+  - family-names: Richardson
+    given-names: S.
+  - family-names: Sharp
+    given-names: G.C.
+  - family-names: Satomi
+    given-names: S.
+  - family-names: Tarbox
+    given-names: L.R.
+  - family-names: Venkatesan
+    given-names: A.M.
+  - family-names: Witztum
+    given-names: A.
+  - family-names: Woods
+    given-names: K.E.
+  - family-names: Yao
+    given-names: Y.
+  - family-names: Farahani
+    given-names: K.
+  - family-names: Aneja
+    given-names: S.
+  - family-names: Gabriel
+    given-names: P.E.
+  - family-names: Hadjiiski
+    given-names: L.
+  - family-names: Ruan
+    given-names: D.
+  - family-names: Siewerdsen
+    given-names: J.H.
+  - family-names: Bratt
+    given-names: S.
+  - family-names: Casagni
+    given-names: M.
+  - family-names: Chen
+    given-names: S.
+  - family-names: Christodouleas
+    given-names: J.C.
+  - family-names: DiDonato
+    given-names: A.
+  - family-names: Hayman
+    given-names: J.
+  - family-names: Kapoor
+    given-names: R.
+  - family-names: Kravitz
+    given-names: S.
+  - family-names: Sebastian
+    given-names: S.
+  - family-names: Von Siebenthal
+    given-names: M.
+  - family-names: Bosch
+    given-names: W.
+  - family-names: Hurkmans
+    given-names: C.
+  - family-names: Yom
+    given-names: S.S.
+  - family-names: Xiao
+    given-names: Y.
+doi: "10.1016/j.ijrobp.2023.05.033"
+journal: "International Journal of Radiation Oncology • Biology • Physics"
+volume: "117"
+issue: "3"
+pages: "533-550"
+date-published: "2023-11-01"
+url: "https://pubmed.ncbi.nlm.nih.gov/37244628/"
+identifiers:
+  - type: doi
+    value: "10.1016/j.ijrobp.2023.05.033"
+  - type: pmid
+    value: "37244628"
+  - type: pmcid
+    value: "PMC10741247"

@@ -1,0 +1,7 @@
+# .github/CODEOWNERS
+-Automatically requests reviews from specific people/teams when files change.
+-Can block merges if required reviewers don’t approve (depending on branch protection rules)
+-Supports directory‑level ownership (e.g., /docs/ @docs-team)
+
+# Global ownership: all files require review by one of these owners
+* @CSMayoLab @furtheraway

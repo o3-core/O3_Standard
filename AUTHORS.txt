@@ -1,0 +1,5 @@
+AUTHORS File
+Purpose: Credits the original creators or major early contributors.
+Names of the people who initially wrote the project code. Sometimes includes copyright notices. Often static and rarely updated
+-Charles Mayo (@CSMayoLab)
+-John Yao (@furtheraway)
