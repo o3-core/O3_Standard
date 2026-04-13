@@ -1,4 +1,4 @@
-The Operational Ontology for Oncology is a produc of the combined effort of physicists, physician, informaticist and other members of  members of several professional societies including the American Association of Physicists in Medicine (AAPM), 
+The Operational Ontology for Oncology is a product of the combined effort of physicists, physician, informaticist and other members of  members of several professional societies including the American Association of Physicists in Medicine (AAPM), 
 American Society of Radiation Oncologoy (ASTRO), the Canadian Organization of Medical Phyics (COMP), Canadian Association of Radiation Oncology (CARO), and the European Society of Therapeutic Radiation Oncology (ESTRO). 
 Each of these professional societies have endorsed the O3 standards. O3 is created, extended and maintainted under the auspicies of the American Association of Medical Physicis (AAPM). All work in coding that supports files supporting promulgation 
 of the O3 standard have been created at the University of Michigan. The license protecting use and distribution of O3 is maintained by the Board of Regents of the University of Michigan. 
