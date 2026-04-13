@@ -1,5 +1,36 @@
 AUTHORS File
 Purpose: Credits the original creators or major early contributors.
 Names of the people who initially wrote the project code. Sometimes includes copyright notices. Often static and rarely updated
--Charles Mayo (@CSMayoLab)
--John Yao (@furtheraway)
+- Charles Mayo 
+- Ying Xiao 
+- Kristy Brock 
+- Mary Feng  
+- Sue Yom 
+- Randi Kudner 
+- Todd McNutt 
+- Peter Balter 
+- Jeff Buchsbaum 
+- Alon Witzum 
+- Amanda Cassie 
+- Elizabeth Covington
+- Emily Daugherty 
+- Susan Richardson 
+- Andre Dekker (A, C1)
+- Clifton David Fuller 
+- Richard Popple 
+- Jim Hayman 
+- Walter Bosch 
+- Lawrence Tarbox 
+- David Hong 
+- Tim Ritter 
+- Eva Katsoulakis 
+- Jon Kruse 
+- Satomi Shiraishi 
+- Michelle Mierzwa 
+- Amy Moreno 
+- Jatinder Palta 
+- Michelle Howard 
+- Tom Purdie 
+- Peter Gabriel 
+- Anneka Hallstrom 
+- Jeff Siewerdsen 
